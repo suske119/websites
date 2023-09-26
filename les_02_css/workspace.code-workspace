@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "workspace",
+			"path": "../../../workspace"
+		},
+		{
+			"name": "les_02_css",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "les_02_css"
+	}
+}
