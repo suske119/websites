@@ -1,0 +1,37 @@
+.rechthoek1
+{
+    
+    font-size: 1.2em;
+    color: red;
+    background-color: lightcoral;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+    max-width: 300px;
+    font-family: 'Roboto', sans-serif;
+}
+.rechthoek2
+{
+    font-size: 1.2em;
+    color: blue;
+    background-color: lightblue;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+    max-width: 300px;
+    font-family: 'Mooli', sans-serif;
+}
+.rechthoek3
+{
+    font-size: 1.2em;
+    color: green;
+    background-color: lightgreen;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+    max-width: 300px;
+    font-family: 'Fuggles', cursive;
+}
+
+
+    
