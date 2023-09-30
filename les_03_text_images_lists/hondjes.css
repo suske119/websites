@@ -1,0 +1,90 @@
+.body
+{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1
+{
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+    color:#fa6432 ;
+}
+hr
+{
+height: 1px;
+border-color: #004daa;
+}
+.foto1
+{
+    border-radius:5%;
+    margin: 15px;
+    float: left;
+    transition: opacity 0,3s ease;
+    opacity:0.5 ;
+}
+.foto1:hover
+{
+    opacity: 1;
+}.foto2
+{
+    border-radius:5%;
+    margin: 15px;
+    float: left;
+    transition: opacity 0,3s ease;
+    opacity:0.5 ;
+}
+.foto2:hover
+{
+    opacity: 1;
+}.foto3
+{
+    border-radius:5%;
+    margin: 15px;
+    float: left;
+    transition: opacity 0,3s ease;
+    opacity:0.5 ;
+}
+.foto3:hover
+{
+    opacity: 1;
+}.foto4
+{
+    border-radius:5%;
+    margin: 15px;
+    float: left;
+    transition: opacity 0,3s ease;
+    opacity:0.5 ;
+}
+.foto4:hover
+{
+    opacity: 1;
+}.foto5
+{
+    border-radius:5%;
+    margin: 15px;
+    float: left;
+    transition: opacity 0,3s ease;
+    opacity:0.5 ;
+}
+.foto5:hover
+{
+    opacity: 1;
+}.foto6
+{
+    border-radius:5%;
+    margin: 15px;
+    float: left;
+    transition: opacity 0,3s ease;
+    opacity:0.5 ;
+}
+.foto6:hover
+{
+    opacity: 1;
+}
+link
+{
+text-decoration: underline;
+padding-top: 15px;
+padding-bottom: 15px;
+}
